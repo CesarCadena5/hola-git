@@ -1,0 +1,1 @@
+console.log('Agregué el registro.js')
